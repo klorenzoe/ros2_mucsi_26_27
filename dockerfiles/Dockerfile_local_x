@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
          ros-jazzy-usb-cam \
          ros-jazzy-image-tools \
          ros-jazzy-rqt-image-view \
+         ros-jazzy-rqt-graph \
          ros-jazzy-cv-bridge \
          ros-jazzy-control-msgs \
          ros-jazzy-xacro \
