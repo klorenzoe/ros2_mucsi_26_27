@@ -1,0 +1,12 @@
+/datos
+
+# para ignorar cosas del build de colcon
+build/
+install/
+log/
+__pycache__/
+*.pyc
+
+
+#outputs
+datos/
