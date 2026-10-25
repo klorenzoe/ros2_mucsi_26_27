@@ -1,4 +1,10 @@
-# Práctica1
+# Robótica y automatización inteligente - Práctica 1
+**Autores**
+
+| Nombre | Correo | GitHub |
+| --- | --- | --- |
+| Katherine Lorenzo | katherine.lorenzo@opendeusto.es | [@klorenzoe](https://github.com/klorenzoe) |
+| Mauro Cornejo | maurorodrigo.cornejo@opendeusto.es | [@Maux112](https://github.com/Maux112) |
 
 ![Trayectorias](documentation/trayectorias.gif)
 
