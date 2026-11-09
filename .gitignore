@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 INTERNAL.md
 practica0/
+# Practica 2: dependencia compilada desde fuente e imagenes capturadas
+ros_workspace/src/usb_cam/
+ros_workspace/imagenes_capturadas/
