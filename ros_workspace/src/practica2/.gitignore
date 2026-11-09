@@ -1,0 +1,5 @@
+# Imágenes capturadas en la ingesta (se regeneran al ejecutar el nodo)
+imagenes_capturadas/
+
+# Salidas del cameracalibrator (el YAML de calibración SÍ se versiona)
+*.tar.gz
