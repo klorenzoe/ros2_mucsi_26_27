@@ -3,7 +3,12 @@
 Paquete de ROS 2 con dos nodos:
 
 - `capturador_imagenes`: guarda 10 imágenes distintas de la cámara.
+
+  ![Capturador de imágenes](doc/capturador%20imagenes%20-%20faster.gif)
+
 - `aplicador_calibracion`: corrige la imagen con la calibración de la cámara (usando `cv_bridge`).
+
+  ![Aplicador de calibración](doc/calibrador%20imagen%20-%20faster.gif)
 
 ## Dependencias
 
