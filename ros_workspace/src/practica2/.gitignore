@@ -1,5 +1,10 @@
-# Imágenes capturadas en la ingesta (se regeneran al ejecutar el nodo)
-imagenes_capturadas/
-
-# Salidas del cameracalibrator (el YAML de calibración SÍ se versiona)
-*.tar.gz
+build/
+install/
+log/
+__pycache__/
+*.pyc
+INTERNAL.md
+practica0/
+# Practica 2: dependencia compilada desde fuente e imagenes capturadas
+ros_workspace/src/usb_cam/
+ros_workspace/imagenes_capturadas/
