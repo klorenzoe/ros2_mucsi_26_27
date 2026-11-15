@@ -1,5 +1,10 @@
 # Práctica 2: ingesta, calibración y procesamiento de imágenes
 
+**Autores**
+
+- Katherine Lorenzo
+- Mauro Cornejo
+
 Paquete de ROS 2 con dos nodos:
 
 - `capturador_imagenes`: guarda 10 imágenes distintas de la cámara.
