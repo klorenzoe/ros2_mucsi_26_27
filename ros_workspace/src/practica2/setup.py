@@ -24,6 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'capturador_imagenes = practica2.capturador_imagenes:main',        ],
+            'capturador_imagenes = practica2.capturador_imagenes:main',
+            'aplicador_calibracion = practica2.aplicador_calibracion:main',
+        ],
     },
 )
